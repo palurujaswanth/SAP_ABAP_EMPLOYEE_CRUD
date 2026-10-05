@@ -19,9 +19,13 @@ Image display syntax with adjustable dimensions (width and alignment).
 Place your architecture diagram image in the 'docs/' or 'screenshots/' folder in your repo.
 You can adjust the width percentage (e.g., width="85%") to fit your layout.
 -->
+
 <p align="center">
-  <img src="Architecture_.png" />
-" alt="Architecture Diagram" width="85%" height="50%" />
+  <img
+    src="Architecture_.png"
+    alt="RAP Unmanaged Sales Application Architecture"
+    width="500"
+  />
 </p>
 
 ---
