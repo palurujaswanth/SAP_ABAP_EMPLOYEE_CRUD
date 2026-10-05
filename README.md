@@ -20,7 +20,7 @@ Place your architecture diagram image in the 'docs/' or 'screenshots/' folder in
 You can adjust the width percentage (e.g., width="85%") to fit your layout.
 -->
 <p align="center">
-  <img src="C:\Users\jaswa\Downloads\diagram (5).png" />
+  <img src="Architecture_.png" />
 " alt="Architecture Diagram" width="85%" />
 </p>
 
