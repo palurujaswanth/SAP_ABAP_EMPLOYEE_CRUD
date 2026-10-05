@@ -25,7 +25,7 @@ You can adjust the width percentage (e.g., width="85%") to fit your layout.
     src="Architecture_.png"
     alt="RAP Unmanaged Sales Application Architecture"
     width="500"
-    height="300"
+    height="500"
   />
 </p>
 
