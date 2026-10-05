@@ -21,7 +21,7 @@ You can adjust the width percentage (e.g., width="85%") to fit your layout.
 -->
 <p align="center">
   <img src="Architecture_.png" />
-" alt="Architecture Diagram" width="85%" height="25%" />
+" alt="Architecture Diagram" width="85%" height="50%" />
 </p>
 
 ---
